@@ -5,3 +5,9 @@ body {
 .nounderline {
   text-decoration: none;
 }
+
+.card img {
+  width: 100%;
+  height: 20em;
+  object-fit: cover;
+}
